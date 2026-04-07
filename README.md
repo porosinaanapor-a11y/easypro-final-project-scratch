@@ -20,6 +20,7 @@
 Дополнительно было добавлено Музыкальное сопровождение.
 
 ## ▶️Скриншоты проекта
+https://github.com/porosinaanapor-a11y/easypro-final-project-scratch/blob/b995f891b986e50ba1e750c268a52e1e83433079/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%91%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB_%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_1.jpg
 
 ## 📞 Контакты
 
